@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955729406530",
+    "project_id": "labours-235b7",
+    "storage_bucket": "labours-235b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955729406530:android:385197f4205cb7d2ca9bdb",
+        "android_client_info": {
+          "package_name": "com.example.labours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOCyiztGejl-JoYaKlDIsbTsXUg8n2yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
