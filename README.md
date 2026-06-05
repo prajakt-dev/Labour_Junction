@@ -1,83 +1,33 @@
-Labour Junction
+## Application Screenshots
 
-Labour Junction is a Flutter-based mobile application designed to connect daily wage workers and service providers with customers who need their services.
+### Splash Screen
 
-The platform helps workers showcase their skills, receive ratings, and connect with potential clients efficiently.
-
-Features
-
-* User Registration and Login
-* Worker Profile Management
-* Service Listings
-* Customer Search Functionality
-* Worker Rating System
-* Firebase Authentication
-* Firebase Firestore Database
-* Cross-Platform Flutter Application
-
-Technology Stack
-
-Frontend:
-
-* Flutter
-* Dart
-
-Backend:
-
-* Firebase Authentication
-* Cloud Firestore
-
-Development Tools:
-
-* Android Studio
-* Git
-* GitHub
-
-## Project Structure
-
-```text
-lib/
-├── screens/
-├── widgets/
-├── models/
-├── services/
-└── main.dart
-
-assets/
-android/
-ios/
-web/
-```
-
-## Screenshots
-
-### Login Screen
-
-(Add Screenshot Here)
+![Splash Screen](assets/screenshots/Splash_Screen.jpeg)
 
 ### Home Screen
 
-(Add Screenshot Here)
+![Home Screen](assets/screenshots/Home_Screen.jpeg)
 
-### Worker Profile
+### Location Screen
 
-(Add Screenshot Here)
+![Location Screen](assets/screenshots/Location_Screen.jpeg)
 
-### Service Listing
+### Work Apply Screen
 
-(Add Screenshot Here)
+![Work Apply Screen](assets/screenshots/Work_apply_Screen.jpeg)
 
-## Future Enhancements
+### History Screen
 
-* Real-time Chat System
-* Online Payment Integration
-* GPS Location Tracking
-* Service Booking System
-* Push Notifications
+![History Screen](assets/screenshots/History_Screen.jpeg)
 
-Author
+### Profile Screen
 
-Prajakt Wele
+![Profile Screen](assets/screenshots/Profile_Screen.jpeg)
 
-GitHub:
-https://github.com/prajakt-dev
+### Settings Screen
+
+![Settings Screen](assets/screenshots/Setting_Screen.jpeg)
+
+### Sidebar Screen
+
+![Sidebar Screen](assets/screenshots/SideBar_Screen.jpeg)
