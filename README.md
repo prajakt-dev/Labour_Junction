@@ -59,21 +59,24 @@ windows/
 
 ## Application Screenshots
 
-### Login Screen
+### Splash Screen
 
-![Login Screen](screenshots/login.png)
+<img src="assets/screenshots/Splash_Screen.jpeg" width="200">
 
 ### Home Screen
 
-![Home Screen](screenshots/home.png)
-
+  <img src="assets/screenshots/Home_Screen.jpeg" width="200">
+  
 ### Worker Profile Screen
 
-![Worker Profile](screenshots/profile.png)
+ <img src="assets/screenshots/Profile_Screen.jpeg" width="200">
 
 ### Service Listing Screen
 
-![Services](screenshots/services.png)
+ <img src="assets/screenshots/Work_apply_Screen.jpeg" width="200">
+
+### Slidebar Screen
+  <img src="assets/screenshots/SideBar_Screen.jpeg" width="200">
 
 ## Author
 
@@ -84,18 +87,8 @@ B.Voc Software Development
 GitHub: https://github.com/prajakt-dev
 
 <p align="center">
-  <img src="assets/screenshots/Splash_Screen.jpeg" width="200">
-  <img src="assets/screenshots/Home_Screen.jpeg" width="200">
-  <img src="assets/screenshots/Profile_Screen.jpeg" width="200">
-</p>
-
-<p align="center">
   <img src="assets/screenshots/Location_Screen.jpeg" width="200">
-  <img src="assets/screenshots/Work_apply_Screen.jpeg" width="200">
   <img src="assets/screenshots/History_Screen.jpeg" width="200">
-</p>
-
-<p align="center">
   <img src="assets/screenshots/Setting_Screen.jpeg" width="200">
-  <img src="assets/screenshots/SideBar_Screen.jpeg" width="200">
+
 </p>
